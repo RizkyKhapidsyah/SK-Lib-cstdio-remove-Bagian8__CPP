@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SK-Lib-cstdio-remove-Bagian8__CPP", "SK-Lib-cstdio-remove-Bagian8__CPP\SK-Lib-cstdio-remove-Bagian8__CPP.vcxproj", "{F9248754-E936-4039-9E66-5A72E742CBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9248754-E936-4039-9E66-5A72E742CBCA}.Debug|x64.ActiveCfg = Debug|x64
+		{F9248754-E936-4039-9E66-5A72E742CBCA}.Debug|x64.Build.0 = Debug|x64
+		{F9248754-E936-4039-9E66-5A72E742CBCA}.Debug|x86.ActiveCfg = Debug|Win32
+		{F9248754-E936-4039-9E66-5A72E742CBCA}.Debug|x86.Build.0 = Debug|Win32
+		{F9248754-E936-4039-9E66-5A72E742CBCA}.Release|x64.ActiveCfg = Release|x64
+		{F9248754-E936-4039-9E66-5A72E742CBCA}.Release|x64.Build.0 = Release|x64
+		{F9248754-E936-4039-9E66-5A72E742CBCA}.Release|x86.ActiveCfg = Release|Win32
+		{F9248754-E936-4039-9E66-5A72E742CBCA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98841870-4D7A-488A-9F0D-E6DA93A0DDE8}
+	EndGlobalSection
+EndGlobal
